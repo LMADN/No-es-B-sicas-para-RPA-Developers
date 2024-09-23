@@ -47,4 +47,4 @@ Agradecemos por acompanhar o curso. Boa automação!
 ## Licença
 
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-# No-es-B-sicas-para-RPA-Developers
+# Para-RPA-Developers
